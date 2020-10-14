@@ -1,0 +1,2 @@
+D:\WebServer\network\Debug\network.exe
+D:\WebServer\network\Debug\network.pdb
