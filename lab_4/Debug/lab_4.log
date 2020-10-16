@@ -1,73 +1,17 @@
-﻿  matrix.cpp
-D:\c++\lab_4\matrix.cpp(25,5): error C2065: “T”: 未声明的标识符
-D:\c++\lab_4\matrix.cpp(25,1): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(25,9): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(25,26): error C2509: “{ctor}”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(30,5): error C2065: “T”: 未声明的标识符
-D:\c++\lab_4\matrix.cpp(30,1): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(30,9): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(30,26): error C2509: “{ctor}”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(37,5): error C2065: “T”: 未声明的标识符
-D:\c++\lab_4\matrix.cpp(37,1): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(37,9): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(37,21): error C2509: “{ctor}”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(46,2): error C2143: 语法错误: 缺少“;”(在“*”的前面)
-D:\c++\lab_4\matrix.cpp(46,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-D:\c++\lab_4\matrix.cpp(46,10): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(46,18): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(46,36): error C2761: “T *const MAT<T>::operator [](int)”: 不允许重新声明成员
-D:\c++\lab_4\matrix.cpp(46,36): error C2059: 语法错误:“{”
-D:\c++\lab_4\matrix.cpp(46,36): error C2143: 语法错误: 缺少“;”(在“{”的前面)
-D:\c++\lab_4\matrix.cpp(46,36): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
-D:\c++\lab_4\matrix.cpp(50,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(50,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(50,38): error C2509: “+=”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(62,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(62,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(62,42): error C2509: “+”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(75,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(75,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(75,43): error C2509: “-”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(89,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(89,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(89,38): error C2509: “-=”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(102,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(102,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(102,13): error C2143: 语法错误: 缺少“;”(在“MAT<T>::operator *”的前面)
-D:\c++\lab_4\matrix.cpp(102,22): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
-D:\c++\lab_4\matrix.cpp(102,37): error C2509: “*”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(114,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(114,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(114,36): error C2509: “=”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(121,5): error C2923: “MAT”: 对于参数“T”，“T”不是有效的 模板 类型变量
-D:\c++\lab_4\matrix.cpp(46): message : 参见“T”的声明
-D:\c++\lab_4\matrix.cpp(121,13): error C2955: “MAT”: 使用 类 模板 需要 模板 参数列表
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
-D:\c++\lab_4\matrix.cpp(121,32): error C2509: “=”: 成员函数没有在“MAT”中声明
-D:\c++\lab_4\matrix.h(9): message : 参见“MAT”的声明
+﻿  main.cpp
+D:\c++\lab_4\matrix.h(181,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(186,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(191,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(195,30): warning C4215: 使用了非标准扩展: 长浮点
+D:\c++\lab_4\matrix.h(196,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(207,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(201): message : 在编译 类 模板 成员函数“char *MAT<int>::print(char *) noexcept const”时
+D:\c++\lab_4\main.cpp(5): message : 查看对正在编译的 类 模板 实例化“MAT<int>”的引用
+D:\c++\lab_4\matrix.h(102,1): warning C4244: “+=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=__int64
+          ]
+D:\c++\lab_4\matrix.h(90): message : 在编译 类 模板 成员函数“MAT<__int64> MAT<__int64>::operator *(const MAT<__int64> &) const”时
+D:\c++\lab_4\main.cpp(6): message : 查看对正在编译的 类 模板 实例化“MAT<__int64>”的引用
+  lab_4.vcxproj -> D:\c++\lab\Debug\lab_4.exe
