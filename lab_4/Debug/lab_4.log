@@ -1,17 +1,3 @@
-﻿  main.cpp
-D:\c++\lab_4\matrix.h(181,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\c++\lab_4\matrix.h(186,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\c++\lab_4\matrix.h(191,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\c++\lab_4\matrix.h(195,30): warning C4215: 使用了非标准扩展: 长浮点
-D:\c++\lab_4\matrix.h(196,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\c++\lab_4\matrix.h(207,13): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\c++\lab_4\matrix.h(201): message : 在编译 类 模板 成员函数“char *MAT<int>::print(char *) noexcept const”时
-D:\c++\lab_4\main.cpp(5): message : 查看对正在编译的 类 模板 实例化“MAT<int>”的引用
-D:\c++\lab_4\matrix.h(102,1): warning C4244: “+=”: 从“T”转换到“int”，可能丢失数据
-          with
-          [
-              T=__int64
-          ]
-D:\c++\lab_4\matrix.h(90): message : 在编译 类 模板 成员函数“MAT<__int64> MAT<__int64>::operator *(const MAT<__int64> &) const”时
-D:\c++\lab_4\main.cpp(6): message : 查看对正在编译的 类 模板 实例化“MAT<__int64>”的引用
+﻿TestMAT.lib(pch.obj) : warning LNK4099: 未找到 PDB“Test.pdb”(使用“TestMAT.lib(pch.obj)”或在“D:\c++\lab\Debug\Test.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+TestMAT.lib(TEST.obj) : warning LNK4099: 未找到 PDB“Test.pdb”(使用“TestMAT.lib(TEST.obj)”或在“D:\c++\lab\Debug\Test.pdb”中寻找)；正在链接对象，如同没有调试信息一样
   lab_4.vcxproj -> D:\c++\lab\Debug\lab_4.exe

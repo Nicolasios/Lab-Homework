@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\c++\lab_4\matrix.h(213,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(218,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(223,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\c++\lab_4\matrix.h(227,30): warning C4215: 使用了非标准扩展: 长浮点
+D:\c++\lab_4\matrix.h(228,13): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  matrix.cpp
