@@ -1,0 +1,1 @@
+./check_linux.sh: 行 15: ./GoBackN: 是一个目录

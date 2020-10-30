@@ -1,0 +1,3 @@
+/home/ty/Network_lab2/RDT_Code/Ubuntu_18.04.3_64_Desktop/SR/build/CMakeFiles/rebuild_cache.dir
+/home/ty/Network_lab2/RDT_Code/Ubuntu_18.04.3_64_Desktop/SR/build/CMakeFiles/SR.dir
+/home/ty/Network_lab2/RDT_Code/Ubuntu_18.04.3_64_Desktop/SR/build/CMakeFiles/edit_cache.dir
